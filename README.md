@@ -12,4 +12,5 @@ Uma página inspirada na tela inicial da Netflix, desenvolvida com *HTML* e *CSS
 ## 🚀 Como visualizar o projeto:
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/devcintra/seu-repositorio.git 
+   git clone https://github.com/devcintra/Netflix-Home-Page-HTML-CSS.git
+
