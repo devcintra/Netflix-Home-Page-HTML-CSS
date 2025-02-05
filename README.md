@@ -7,7 +7,7 @@ Uma página inspirada na tela inicial da Netflix, desenvolvida com *HTML* e *CSS
 - CSS3
 
 ## 📸 Captura de Tela:
-![Screenshot do projeto](![Image](https://github.com/user-attachments/assets/cadd6e7e-36ac-48cc-9488-4395668c83fa))
+![Screenshot do projeto]([Image](https://github.com/user-attachments/assets/cadd6e7e-36ac-48cc-9488-4395668c83fa)
 
 ## 🚀 Como visualizar o projeto:
 1. Faça o download ou clone este repositório:
